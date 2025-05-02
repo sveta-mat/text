@@ -1,0 +1,94 @@
+
+
+.product-container {
+    max-width: 900px;
+    margin: 30px auto;
+    color: black;
+    padding: 20px;
+    background-color: #fafafa;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .product-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .li{
+    color: #333;
+  }
+  
+  .product-container section {
+    margin-bottom: 30px;
+  }
+  
+  .product-container h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: #555;
+  }
+  
+  .product-container ul, .product-container ol {
+    padding-left: 20px;
+    color: #333;
+  }
+  
+  .product-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .product-container table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  .product-container th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .back-button {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .back-button a {
+    text-decoration: none;
+    
+    color: rgb(16, 15, 15);
+    padding: 10px 20px;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+  }
+  
+  .back-button a:hover {
+    
+  }
+  .back-home {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .home-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .home-button:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+  }
+  
+  
