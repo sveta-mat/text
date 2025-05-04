@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sveta-mat/text/static/css/main.6d051faf.css",
-    "main.js": "/sveta-mat/text/static/js/main.424152de.js",
-    "static/js/453.ed3810f9.chunk.js": "/sveta-mat/text/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/sveta-mat/text/index.html",
-    "main.6d051faf.css.map": "/sveta-mat/text/static/css/main.6d051faf.css.map",
-    "main.424152de.js.map": "/sveta-mat/text/static/js/main.424152de.js.map",
-    "453.ed3810f9.chunk.js.map": "/sveta-mat/text/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/text/static/css/main.6d051faf.css",
+    "main.js": "/text/static/js/main.6ca5ad90.js",
+    "static/js/453.ed3810f9.chunk.js": "/text/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/text/index.html",
+    "main.6d051faf.css.map": "/text/static/css/main.6d051faf.css.map",
+    "main.6ca5ad90.js.map": "/text/static/js/main.6ca5ad90.js.map",
+    "453.ed3810f9.chunk.js.map": "/text/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d051faf.css",
-    "static/js/main.424152de.js"
+    "static/js/main.6ca5ad90.js"
   ]
 }
